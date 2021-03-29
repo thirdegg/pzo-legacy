@@ -1,0 +1,85 @@
+
+ui.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+knopka
+  rotate: false
+  xy: 204, 26
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+knopkab1
+  rotate: false
+  xy: 2, 7
+  size: 200, 49
+  orig: 200, 49
+  offset: 0, 0
+  index: -1
+ncursor
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ncursor2
+  rotate: false
+  xy: 302, 37
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ncursor3
+  rotate: false
+  xy: 318, 53
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ntf
+  rotate: false
+  xy: 286, 42
+  size: 14, 14
+  split: 1, 1, 1, 1
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ntf2
+  rotate: false
+  xy: 220, 10
+  size: 14, 14
+  split: 1, 1, 1, 1
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ntf3
+  rotate: false
+  xy: 204, 10
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: false
+  xy: 286, 26
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: false
+  xy: 302, 42
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+tf5
+  rotate: false
+  xy: 236, 10
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
